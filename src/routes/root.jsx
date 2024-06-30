@@ -8,7 +8,9 @@ export default function Root() {
         <li>
           <Link to={"29cm/clothes"}>29cm</Link>
         </li>
-        <li>요즘 IT</li>
+        <li>
+          <Link to={"yozmIT"}>요즘 IT</Link>
+        </li>
         <li>Toss</li>
         <li>제주항공</li>
       </ul>
